@@ -6,7 +6,9 @@ namespace Retornar_tst.Models
 {
     public class Cliente
     {
+        
         [Key]
+        [JsonIgnore]
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Telefone { get; set; }
