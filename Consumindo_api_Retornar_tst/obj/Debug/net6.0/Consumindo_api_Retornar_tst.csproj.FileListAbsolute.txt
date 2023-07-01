@@ -1,0 +1,15 @@
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\bin\Debug\net6.0\Consumindo_api_Retornar_tst.exe
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\bin\Debug\net6.0\Consumindo_api_Retornar_tst.deps.json
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\bin\Debug\net6.0\Consumindo_api_Retornar_tst.runtimeconfig.json
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\bin\Debug\net6.0\Consumindo_api_Retornar_tst.dll
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\bin\Debug\net6.0\Consumindo_api_Retornar_tst.pdb
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.AssemblyInfoInputs.cache
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.AssemblyInfo.cs
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.dll
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\refint\Consumindo_api_Retornar_tst.dll
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.pdb
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\Consumindo_api_Retornar_tst.genruntimeconfig.cache
+C:\Users\mhgir\source\repos\Retornar_tst\Consumindo_api_Retornar_tst\obj\Debug\net6.0\ref\Consumindo_api_Retornar_tst.dll

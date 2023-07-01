@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Consumindo_api_Retornar_tst/1.0.0": {
+        "runtime": {
+          "Consumindo_api_Retornar_tst.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consumindo_api_Retornar_tst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
